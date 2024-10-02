@@ -1,5 +1,5 @@
 public class Vehicle {
     public void speak() {
-        System.out.println("Vehicular chatter!");
+        System.out.println("Vehicular chatter goes vroom!");
     }
 }
